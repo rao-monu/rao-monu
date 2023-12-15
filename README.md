@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mukesh
+# 👋 Hi, I'm Mukesh Rao
 
 ## 👀 About Me
 I'm a passionate geospatial data scientist and 3D geospatial engineer with expertise in land, terrain, climate, and spatial modelling. My work revolves around the 3D city and building spatial modelling, utilizing geospatial technologies like satellite imagery, lidar, drones, terrain data (DSM, DTM), orthophotos, and spatiotemporal analysis.
