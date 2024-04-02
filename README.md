@@ -12,7 +12,7 @@ I'm actively involved in the field of 3D geospatial generative technology, worki
 - [Twitter](https://twitter.com/Mukesh43888164?t=mwlZmp-94HB5CxdpAbwUzg&s=09)
 
 ## 📝 Recent Blogs and Research Papers
-- [Mapping Urban Green Spaces: The Spatial Revolution for 15-Minute Cities](https://www.digitalbluefoam.com/post/mapping-urban-green-spaces-the-spatial-revolution-for-15-minute-cities))
+- [Mapping Urban Green Spaces: The Spatial Revolution for 15-Minute Cities](https://www.digitalbluefoam.com/post/mapping-urban-green-spaces-the-spatial-revolution-for-15-minute-cities)
 
 - [Estimation of soil erosion in the indo-gangetic region using revised universal soil loss equation (RUSLE) model and geospatial technology](https://link.springer.com/article/10.1007/s40808-022-01553-w)
 
