@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mukesh Rao
 
 ## 👀 About Me
-Hey there! I'm passionate about geospatial data science (Remote sensing & GIS) and geospatial engineering. I have experience in land, terrain, climate, and coastal spatial modeling. My work is centered around city and land resources management, & building spatial modeling, which requires using cool geospatial technologies like satellite imagery, lidar, drones, terrain data, orthophotos, and spatiotemporal analysis. Feel free to join me!
+Hey there! I'm passionate about geospatial data science (Remote sensing & GIS) and geospatial engineering. I have experience in land, terrain, climate, and coastal spatial modeling. My work is centered around city and land resources management, & building spatial modeling, utilizing cool geospatial technologies like satellite imagery, lidar, drones, terrain data, orthophotos, and spatiotemporal analysis. Feel free to join me!
 
 
 ## 🌱 Currently
